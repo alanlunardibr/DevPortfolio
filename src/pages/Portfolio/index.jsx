@@ -11,9 +11,9 @@ export function Portfolio(){
             <ProjLinha>
                 <h2>PortFólio</h2>
                 <span>Cartão de Visitas On-line</span>
-                <a href="">Link GitHub</a>
+                <a href="https://magical-palmier-082fb8.netlify.app/">Link On-line</a>
+                <a href="https://github.com/alanlunardibr/DevPortfolio">Link HitHub</a>
             </ProjLinha>
-            <ProjLinha>Test2 as</ProjLinha>
         </Container>
     )
 }

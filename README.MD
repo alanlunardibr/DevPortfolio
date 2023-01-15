@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Portfólio é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](https://magical-palmier-082fb8.netlify.app/)
 
 - [Acesse o projeto no GitHub](https://github.com/alanlunardibr/DevPortfolio)
 
