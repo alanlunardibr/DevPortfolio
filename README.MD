@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  <img alt="projeto" src="../DevPortifolio/src/assets/portifolio.jpeg" width="100%">
+  <img alt="projeto" src="./src/assets/portfolio.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
