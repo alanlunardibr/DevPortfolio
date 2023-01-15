@@ -4,7 +4,7 @@ import { FaWhatsapp } from 'react-icons/fa'
 import { useState } from 'react'
 
 import Stars from '../../assets/stars.svg'
-import Sun from '../../assets/Sun.svg'
+import Sun from '../../assets/sun.svg'
 
 export function Home(){
 
