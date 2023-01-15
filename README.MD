@@ -24,11 +24,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Portifólio é um agregador de links para usar como cartão de visitas online.
+O Portfólio é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
-- [Acesse o projeto no GitHub](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto no GitHub](https://github.com/alanlunardibr/DevPortfolio)
 
 
 
